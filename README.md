@@ -24,7 +24,7 @@ Outside of programming, I'm interested in rugby, fitness and technology.
 
 ---
 
-## 🚀 What Am I Currently Working On?
+## 🌱 What Am I Currently Working On?
 
 - 🎓 Completing my Bachelor of Computing degree.
 - 💻 Improving my software development and programming skills.
