@@ -1,4 +1,5 @@
-<p align="center">
+ <div align="center">
+<p>
   <img src="./assets/midnight-purple-banner.png"
        width="100%"
        alt="Midnight Purple Anime Banner">
@@ -63,15 +64,15 @@ Outside of programming, I'm interested in rugby, fitness and technology.
 </p>
 
 
-## 📡 ESTABLISH CONNECTION
+## 📫 How to Reach Me
 
 - 📧 **Email:** [kannemeyernickyle@gmail.com](mailto:kannemeyernickyle@gmail.com)
-- 📍 **Location:** Stellenbosch, Western Cape, South Africa
+- 📍 **Location:** Mossel Bay, South Africa
 
-### 🏆 THE DEVELOPER ARC CONTINUES...
+---
 
-*"The only way to level up is to keep learning."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=100&section=footer" width="100%" />
-
-</div>
+<p align="center">
+  <img src="./assets/midnight-purple-footer.png"
+       width="100%"
+       alt="Midnight Purple Anime Footer"/>
+</p>
