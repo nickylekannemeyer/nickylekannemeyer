@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻 PLAYER PROFILE
+## 🧑‍💻 About Me
 
 I'm Nickyle Kannemeyer, a final-year Bachelor of Computing student at **Belgium Campus ITversity**, passionate about software development, programming and technology.
 
@@ -31,7 +31,7 @@ Outside of programming, I'm interested in rugby, fitness and technology.
 
 ---
 
-## ⚔️ CURRENT QUESTS
+## ⚔️ What Am I Currently Working On?
 
 > *Every developer has a next level to reach.*
 
@@ -43,7 +43,7 @@ Outside of programming, I'm interested in rugby, fitness and technology.
 
 ---
 
-## 🛠️ SKILL TREE
+## 🛠️ Languages & Tools
 
 ### ⚡ Programming Languages
 
