@@ -12,7 +12,7 @@
 
 ---
 
-## 🙋‍♂️ Who Am I?
+## 🚀 About Me
 
 I'm a final-year Bachelor of Computing student at **Belgium Campus ITversity**, passionate about software development, programming and technology.
 
@@ -20,7 +20,7 @@ I enjoy tackling challenges, solving problems and turning ideas into practical s
 
 I'm a fast learner who is always looking to expand my knowledge, explore new technologies and improve my development skills.
 
-Outside of programming, I'm interested in karate, fitness and technology.
+Outside of programming, I'm interested in rugby, fitness and technology.
 
 ---
 
