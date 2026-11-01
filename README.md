@@ -63,6 +63,7 @@ Outside of programming, I'm interested in rugby, fitness and technology.
 <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
+---
 
 ## 📫 How to Reach Me
 
